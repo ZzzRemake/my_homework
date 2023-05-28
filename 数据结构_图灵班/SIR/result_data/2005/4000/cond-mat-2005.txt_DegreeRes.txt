@@ -1,0 +1,52 @@
+The 1 alpha case:
+alpha:	0.0438776
+elapsed time: 2.75845s
+alpha:0.0438776
+100 round:
+the average removal node is 8306.82/40421, variance is 3601.75
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 32114.2/40421, variance is 3601.75
+The 2 alpha case:
+alpha:	0.0585035
+elapsed time: 2.98328s
+alpha:0.0585035
+100 round:
+the average removal node is 9476.03/40421, variance is 5116.05
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 30945/40421, variance is 5116.05
+The 3 alpha case:
+alpha:	0.0731294
+elapsed time: 3.20016s
+alpha:0.0731294
+100 round:
+the average removal node is 10664.5/40421, variance is 6922.74
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 29756.5/40421, variance is 6922.74
+The 4 alpha case:
+alpha:	0.109694
+elapsed time: 3.68072s
+alpha:0.109694
+100 round:
+the average removal node is 13652/40421, variance is 9250.85
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 26769/40421, variance is 9250.85
+The 5 alpha case:
+alpha:	0.146259
+elapsed time: 3.79502s
+alpha:0.146259
+100 round:
+the average removal node is 16504.6/40421, variance is 10610
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 23916.4/40421, variance is 10610
+The 6 alpha case:
+alpha:	0.182823
+elapsed time: 3.97715s
+alpha:0.182823
+100 round:
+the average removal node is 19148.3/40421, variance is 10586.9
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 21272.7/40421, variance is 10586.9
+100 round:
+the average removal node is 19148.3/40421, variance is 10586.9
+the average infected node is 0/40421, variance is 0
+the average susceptible node is 21272.7/40421, variance is 10586.9

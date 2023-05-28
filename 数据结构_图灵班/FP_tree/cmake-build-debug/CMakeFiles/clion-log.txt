@@ -1,0 +1,4 @@
+"D:\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\Desktop_total\Class\First_semester_of_sophomore_year\Data_Structure_and_Algorithm\homework\FP_tree -B D:\Desktop_total\Class\First_semester_of_sophomore_year\Data_Structure_and_Algorithm\homework\FP_tree\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Desktop_total/Class/First_semester_of_sophomore_year/Data_Structure_and_Algorithm/homework/FP_tree/cmake-build-debug

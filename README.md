@@ -1,2 +1,13 @@
-# my_homework
-something i don't like anymore. maybe.
+# My homework
+
+这里放些过去的垃圾。
+
+也许等之后回来看的时候会更觉得像是垃圾罢。
+
+💃
+
+----
+
+💃
+
+先叠个甲，这里的代码不负责售后，更不负责正确，能提供思路就算成功。

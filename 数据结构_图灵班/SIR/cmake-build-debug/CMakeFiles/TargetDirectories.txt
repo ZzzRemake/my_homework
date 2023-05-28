@@ -1,0 +1,3 @@
+D:/Desktop_total/Class/First_semester_of_sophomore_year/Data_Structure_and_Algorithm/homework/SIR/cmake-build-debug/CMakeFiles/SIR.dir
+D:/Desktop_total/Class/First_semester_of_sophomore_year/Data_Structure_and_Algorithm/homework/SIR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop_total/Class/First_semester_of_sophomore_year/Data_Structure_and_Algorithm/homework/SIR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
